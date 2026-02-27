@@ -26,10 +26,10 @@ L’analyse porte sur trois dimensions principales :
 
 Deux approches ont été explorées :
 
-- **Ré-pondération (Reweighting)**  
+- Ré-pondération 
   Pondération inversement proportionnelle à la fréquence des groupes afin d’équilibrer leur influence statistique sans modifier le dataset.
 
-- **Rééchantillonnage **  
+- Rééchantillonnage   
   Under-sampling du groupe majoritaire pour obtenir un jeu de données équilibré en effectif.
 
 ---
